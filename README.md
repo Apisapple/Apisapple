@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Apisapple's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apisapple&theme=dark&show_icons=true)
+![Apisapple's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Apisapple&theme=dark&show_icons=true)
 
 <!---
 Apisapple/Apisapple is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
